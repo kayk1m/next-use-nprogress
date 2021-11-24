@@ -16,7 +16,16 @@
     "Next",
     "Next.js"
   ],
-  "author": "Kay Kim",
+  "homepage": "https://github.com/Jeonghyun-Kim/next-nprogress-hook",
+  "bugs": {
+    "url": "https://github.com/Jeonghyun-Kim/next-nprogress-hook/issues",
+    "email": "kimjh@bawi.org"
+  },
+  "author": {
+    "name": "Kay Kim",
+    "email": "kimjh@bawi.org",
+    "url": "https://github.com/Jeonghyun-Kim"
+  },
   "license": "MIT",
   "dependencies": {
     "nprogress": "0.2.0"
