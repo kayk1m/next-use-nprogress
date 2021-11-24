@@ -1,4 +1,5 @@
-import 'nprogress/nprogress.css';
+// TODO: Global CSS cannot be imported from within node_modules. (https://github.com/vercel/next.js/discussions/27953)
+// import 'nprogress/nprogress.css';
 
 import { useRouter } from 'next/router';
 import NProgress from 'nprogress';
