@@ -1,0 +1,9 @@
+src
+
+# Linter
+.eslintrc
+.prettierrc
+.prettierignore
+
+# Dependency directories
+node_modules/

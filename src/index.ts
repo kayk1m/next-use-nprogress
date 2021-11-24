@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 import NProgress from 'nprogress';
 import { useEffect } from 'react';
 
-export function useNProgress(options: Partial<NProgress.NProgressOptions>) {
+export default function useNProgress(options: Partial<NProgress.NProgressOptions>) {
   const router = useRouter();
 
   NProgress.configure(options);

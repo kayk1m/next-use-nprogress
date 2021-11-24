@@ -1,11 +1,11 @@
 {
   "name": "next-nprogress-hook",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "NProgress hook for nextjs app.",
   "scripts": {
     "lint": "eslint \"src/**/*.{ts,tsx}\"",
     "build": "tsc",
-    "clean": "rimraf lib"
+    "clean": "rimraf index.js index.d.ts"
   },
   "repository": {
     "type": "git",
