@@ -1,5 +1,5 @@
 {
-  "name": "next-nprogress-hook",
+  "name": "next-use-nprogress",
   "version": "1.0.2",
   "description": "NProgress hook for nextjs app.",
   "scripts": {
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jeonghyun-Kim/next-nprogress-hook.git"
+    "url": "git+https://github.com/Jeonghyun-Kim/next-use-nprogress.git"
   },
   "keywords": [
     "NProgress",
     "Next",
     "Next.js"
   ],
-  "homepage": "https://github.com/Jeonghyun-Kim/next-nprogress-hook",
+  "homepage": "https://github.com/Jeonghyun-Kim/next-use-nprogress",
   "bugs": {
-    "url": "https://github.com/Jeonghyun-Kim/next-nprogress-hook/issues",
+    "url": "https://github.com/Jeonghyun-Kim/next-use-nprogress/issues",
     "email": "kimjh@bawi.org"
   },
   "author": {
