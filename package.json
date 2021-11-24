@@ -1,6 +1,6 @@
 {
   "name": "next-nprogress-hook",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "description": "NProgress hook for nextjs app.",
   "scripts": {
     "lint": "eslint \"src/**/*.{ts,tsx}\"",
