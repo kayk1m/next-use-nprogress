@@ -1,6 +1,6 @@
 # React hook integration of NProgress for Next.js
 
-A simple Next.js progressbar component using [NProgress](http://ricostacruz.com/nprogress/).
+A simple Next.js progressbar hook using [NProgress](http://ricostacruz.com/nprogress/).
 
 ## How to install?
 
