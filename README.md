@@ -27,6 +27,8 @@ In your '\_app.js'
 ```js
 import 'nprogress/nprogress.css';
 
+import useNProgress from 'next-nprogress-hook';
+
 export default function App({ Component, pageProps }) {
   useNProgress({
     // your configurations goes here.
