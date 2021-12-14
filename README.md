@@ -11,13 +11,13 @@ A simple Next.js progressbar hook using [NProgress](http://ricostacruz.com/nprog
 npm
 
 ```bash
-npm i next-nprogress-hook nprogress
+npm i next-use-nprogress nprogress
 ```
 
 yarn
 
 ```bash
-yarn add next-nprogress-hook nprogress
+yarn add next-use-nprogress nprogress
 ```
 
 ## Usage
